@@ -150,7 +150,7 @@ int main(int argc, char *argv[])
 }
 ```
  
- On peut aussi faire aussi le travail avec des Vecteurs:
+ On peut aussi faire  le travail avec des Vecteurs:
  
  dans le *trafficligh.h* :
  ```cpp
@@ -728,7 +728,7 @@ int main(int argc, char *argv[])
 
  ## CONCLUSION:
  
-Qt est une communication très efficace entre les composants, les signaux et les slots, et est également très simple pour les développeurs.
+Qt est une communication très efficace entre les composants, les signaux et les slots, il est également très simple pour les développeurs.
               
        
 
